@@ -1,0 +1,20 @@
+{
+    "presets": [
+        ["@babel/preset-env", {
+            "targets": {
+                //"node": "current"
+                "node": 8
+            }
+        }]
+    ]
+}
+
+// module.exports = {
+//     presets: [
+//         ['@babel/preset-env', {
+//             targets: {
+//                 node: 8
+//             }
+//         }]
+//     ]
+// }
